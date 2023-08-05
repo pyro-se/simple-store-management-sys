@@ -2,8 +2,8 @@
 
  The project was created for the purpose of passing the 'Programming in C++' course at the university on December 2021. It is a simple web application that functions as a virtual store, allowing users to browse and purchase products. The project is implemented in PHP and utilizes HTML, CSS (Bootstrap), and text files as a simple form of data storage. I made it as a student and only focus to make it at least work.
 
- ![Screenshot](images/scrn1.png)
- ![Screenshot](images/scrn2.png)
+ ![Screenshot](img/scrn1.png)
+ ![Screenshot](img/scrn2.png)
 
 ## Features
 
