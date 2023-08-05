@@ -1,0 +1,4 @@
+0   Coca-Cola_330ml   5
+1   Pepsi_500ml   8
+2   Kit-Kat   8
+3   Bounty   10

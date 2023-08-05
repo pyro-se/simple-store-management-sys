@@ -1,0 +1,34 @@
+
+/* ////////////////////////////////////////////////////// */
+
+
+body{
+	background-image: url('../img/bg_final.jpg');
+	height: 1080px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.tests{
+	background-color: #e4f30c;
+}
+
+.transparent {
+	background-color: rgba(255,255,255,0.5);
+}
+
+
+
+.r{text-align: right;}
+.c {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.nop{
+	text-align: right;
+	color: darkblue;
+	font-size: 100px;
+	font-family: 'Oswald', sans-serif;
+}
