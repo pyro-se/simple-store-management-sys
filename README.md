@@ -2,6 +2,9 @@
 
  The project was created for the purpose of passing the 'Programming in C++' course at the university on December 2021. It is a simple web application that functions as a virtual store, allowing users to browse and purchase products. The project is implemented in PHP and utilizes HTML, CSS (Bootstrap), and text files as a simple form of data storage. I made it as a student and only focus to make it at least work.
 
+ ![Screenshot](images/scrn1.png)
+ ![Screenshot](images/scrn2.png)
+
 ## Features
 
 - Admin console for user and storage management
@@ -31,10 +34,11 @@ The project uses three text files to store data:
 ## Note
 
 This project is a very simple example of an store and is not suitable for any applications. To apply this project in practice, it is necessary to refine and expand it with proper security mechanisms, authentication, a proper database to store user and product data. I made it as a student and only focus to make it at least work.
+Yes, I know that PHP code sends emoji of a shopping cart via POST/GET.
 
-There are nav-icons that are used in Web section of project, also framework for frontend is Bootstrap. I've downloaded them from [(Flaticon.com)](https://www.flaticon.com/free-icons/user).
+There are nav-icons that are used in Web section of project, also framework for frontend is Bootstrap. I've downloaded them from [Flaticon.com](https://www.flaticon.com/free-icons/user).
 - Those icons use Flaticon license.
-- [(Bootstrap)](https://getbootstrap.com/docs/4.0/about/license/) uses MIT License.
+- [Bootstrap](https://getbootstrap.com/docs/4.0/about/license/) uses MIT License.
 
 
 ## Author
