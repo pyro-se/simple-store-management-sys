@@ -14,7 +14,7 @@
 #define T 200
 #define S 18
 
-//Lukasz Rogowski 109520
+//pyro-se
 using namespace std;
 
 class Dane{
